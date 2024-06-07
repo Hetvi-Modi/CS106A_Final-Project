@@ -6,7 +6,7 @@ Developed this as my Final Project for the 'Code In Place-2021'</a>, a remote le
 
 # About the game
 
-![Snake demo  (2)](https://user-images.githubusercontent.com/77860201/120502870-6cc6f180-c3e0-11eb-92e6-e0ad04cdf4fa.png)
+![Snake demo  (2)](https://github.com/Hetvi-Modi/CS106A_Final-Project/blob/main/Final%20Project(Snake%20Game)/Game%20Demo%20pic.png)
 
 About the Game:
 Following is a walk-through showcasing the game:
