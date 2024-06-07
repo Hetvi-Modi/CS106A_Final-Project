@@ -6,10 +6,10 @@ The course was centered around engaging assignments, had weekly live video secti
 
 Concepts covered:
 
-Control Flow
-Variables and Expressions
-Functions and Decomposition
-Graphics
-Lists and Dictionaries
-Animation
-Data science
+- Control Flow
+- Variables and Expressions
+- Functions and Decomposition
+- Graphics
+- Lists and Dictionaries
+- Animation
+- Data science
