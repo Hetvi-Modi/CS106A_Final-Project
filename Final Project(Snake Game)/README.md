@@ -2,7 +2,7 @@
 This is my <b> SNAKE GAME
 </b>.
 
-Developed this as my Final Project for the 'Code In Place-2021'</a>, a remote learning experience offered by the Stanford University under Prof. Mehran Sahami, Prof. Chris Piech and 800+ Section Leaders teaching 10,000 students all over the world!
+Developed this as my Final Project for the 'Code In Place-2024', a remote learning experience offered by the Stanford University under Prof. Mehran Sahami, Prof. Chris Piech and 800+ Section Leaders teaching 10,000 students all over the world!
 
 # About the game
 
