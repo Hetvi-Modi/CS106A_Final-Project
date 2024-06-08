@@ -1,7 +1,7 @@
 """
-Snake Game: (By Suryadipsinh Vaghela)
+Snake Game: 
 
-Welcome to the 'Snake World'! This is my classic 'Snake Game'.
+Welcome to the 'Snake World'! This is my 'Snake Game'.
 
 About the Game:
 -   The objective is to keep eating ‘Apple’ that appears in random locations to keep increasing your snake size.
@@ -125,7 +125,7 @@ class Game:
 
     def __init__(self):
         pygame.init()
-        pygame.display.set_caption("Snake Game by Suryadip")
+        pygame.display.set_caption("Snake Game")
 
         pygame.mixer.init()
         self.play_background_music()
