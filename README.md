@@ -13,3 +13,5 @@ Concepts covered:
 - Lists and Dictionaries
 - Animation
 - Data science
+
+  Link to my certificate : https://codeinplace.stanford.edu/cip4/certificate/9qw1c8
