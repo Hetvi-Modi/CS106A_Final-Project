@@ -14,4 +14,4 @@ Concepts covered:
 - Animation
 - Data science
 
-  Link to my certificate : https://codeinplace.stanford.edu/cip4/certificate/9qw1c8
+Link to my certificate : https://codeinplace.stanford.edu/cip4/certificate/9qw1c8
